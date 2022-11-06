@@ -1,2 +1,4 @@
 <?php 
-echo "Hello Word!!!!!!!";
+
+
+$db_host = 'localhost';
